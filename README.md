@@ -1,9 +1,9 @@
 <pre>
            ╭╮
-╭━┳┳┳┳┳━━┳━┫╰┳━┳┳╮          
-┃╋┃┃┃╭┫┃┃┃┻┫┃┃┻┫╭╯          gurmeher AT berkeley DOT edu
+╭━┳┳┳┳┳━━┳━┫╰┳━┳┳╮          gurmeher AT berkeley DOT edu
+┃╋┃┃┃╭┫┃┃┃┻┫┃┃┻┫╭╯          linkedin.com/in/gurmeher
 ┣╮┣━┻╯╰┻┻┻━┻┻┻━┻╯           gurmeherbhasin.com
-╰━╯
+╰━╯                         
 </pre>
 <!--
 **gurmeher/gurmeher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
