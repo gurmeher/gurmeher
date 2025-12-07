@@ -1,7 +1,7 @@
 <pre>
            ╭╮
-╭━┳┳┳┳┳━━┳━┫╰┳━┳┳╮          gurmeher AT berkeley DOT edu
-┃╋┃┃┃╭┫┃┃┃┻┫┃┃┻┫╭╯          linkedin.com/in/gurmeher
+╭━┳┳┳┳┳━━┳━┫╰┳━┳┳╮          Computer Science & Data Science @ Berkeley
+┃╋┃┃┃╭┫┃┃┃┻┫┃┃┻┫╭╯          gurmeher AT berkeley DOT edu
 ┣╮┣━┻╯╰┻┻┻━┻┻┻━┻╯           gurmeherbhasin.com
 ╰━╯                         
 </pre>
